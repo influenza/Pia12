@@ -13,7 +13,6 @@ AC_CONFIG_MACRO_DIR([m4/])
 AC_PROG_CC([gcc])
 AC_PROG_INSTALL
 AC_PROG_RANLIB
-AM_GNU_MAKE
 
 ##########################################
 # Check for various GNAT installations
