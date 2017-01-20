@@ -2,13 +2,3 @@
 *.swp
 *.swo
 *.swn
-
-# Autotools intermediate files
-aclocal.m4
-**/Makefile.in
-config.h.in
-install-sh
-missing
-autom4te.cache
-compile
-configure
